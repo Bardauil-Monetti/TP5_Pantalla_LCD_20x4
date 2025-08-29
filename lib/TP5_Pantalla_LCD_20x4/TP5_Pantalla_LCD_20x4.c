@@ -1,0 +1,3 @@
+#include <stm32f103xb.h>
+#include <TP5_PANTALLA_LCD_20X4.h>
+RCC->APB2ENR |= RCC_APB2ENR_IOPAEN;
