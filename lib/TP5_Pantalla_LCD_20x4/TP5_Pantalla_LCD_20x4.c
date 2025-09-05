@@ -104,4 +104,8 @@ void lcd_createChar(char posMem, char newChar[8]){
         lcd_car(newChar[i]);
     }
     delay_ms(1);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 564e265487416abaeed5e738bf50f23860c78228
